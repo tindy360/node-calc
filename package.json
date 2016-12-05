@@ -1,0 +1,22 @@
+{
+  "name": "node-calc",
+  "version": "1.0.0",
+  "description": "simple calculation set up using npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "calc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tindy360/node-calc.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Tom Indellicate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tindy360/node-calc/issues"
+  },
+  "homepage": "https://github.com/tindy360/node-calc#readme"
+}
